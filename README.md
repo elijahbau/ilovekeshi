@@ -10,4 +10,9 @@
   </list>
 
   <heading> My Pictures of Keshi at his concert </heading>
-  [https://drive.google.com/file/d/1O2miInvW-DEz2JG3tu_Kl-MuIQmXE2s_/view?usp=drive_link] ![src]
+    <br>
+    <img src="https://github.com/elijahbau/ilovekeshi/blob/main/keshi%201.jpg" width="400" height="600" />
+    <img src="https://github.com/elijahbau/ilovekeshi/blob/main/keshi%202.jpg" width="400" height="600" />
+
+  His spotify page: https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO?si=l0ChAlLDRyOemDsdOozXWw
+  </body>
